@@ -1,9 +1,6 @@
 # CRUNCH
 repository for a crunch project to work on different features for the food, water, energy nexus
-```python
-s = "Python syntax highlighting"
-print s
-
+```
 Downlad the following pacakges:
 -conda install numpy
 -conda install pandas
@@ -17,7 +14,6 @@ Downlad the following pacakges:
 -conda install -c conda-forge geopandas
 -conda install -c conda-forge cartopy
 -pip install geoplot
--Install Folium (v 0.5.0) --> bundled with altair, vega
 -conda install -c conda-forge folium
 -conda install -c conda-forge osmnx
 
