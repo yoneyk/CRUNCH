@@ -1,5 +1,8 @@
 # CRUNCH
 repository for a crunch project to work on different features for the food, water, energy nexus
+```python
+s = "Python syntax highlighting"
+print s
 
 Downlad the following pacakges:
 -conda install numpy
@@ -13,7 +16,7 @@ Downlad the following pacakges:
 -conda install pyspark
 -conda install -c conda-forge geopandas
 -conda install -c conda-forge cartopy
-
+```
 pip install geoplot
 Install osmnx (v 0.5.4) --> bundled with altair, bleach, branca, colorama, entrypoints, folium, geopy, html5lib, ipykernel, ipython, ipython_genutils, jedi, jsonschema, jupyter_client, jupyter_core, mistune, nbconvert, nbformat, notebook, pandoc, pandocfilters, pickleshare, prompt_toolkit, pygments, pyzmq, simplegeneric, testpath, traitlets, vega, vincent, wcwidth, webencodings
 conda install -c conda-forge osmnx
